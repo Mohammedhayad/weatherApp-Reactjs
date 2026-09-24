@@ -661,14 +661,14 @@ div#txt {
 }
 .mb-icon p {
   color: rgb(101, 147, 180);
-  width: fit-content;
+  width: fit-content; 
   position: relative;
   left: 24%;
   top: 2%;
   font-size: 25px;
 }
 .footer-info {
-  color: white;
+  color: rgb(208, 70, 70);
 }
 .footer-info a {
   color: floralwhite;
