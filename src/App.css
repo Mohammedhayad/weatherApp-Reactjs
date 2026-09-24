@@ -334,7 +334,7 @@ div#txt {
   line-height: 39px;
   border-width: thin;
   border-bottom: 1px solid #777;
-  color: #eee;
+  color: #968b2a;
   font-weight: 600;
   text-align: left;
   padding-left: 20px;
@@ -354,7 +354,7 @@ div#txt {
 }
 
 .copyright p {
-  color: #fff;
+  color: #7890ab;
 }
 
 .copyright p a {
@@ -644,7 +644,7 @@ div#txt {
   font-size: 16px;
 }
 .search-box .search-bar::placeholder {
-  color: white;
+  color: rgb(118, 211, 31);
 }
 .search-bar:focus {
   outline: none;
@@ -660,7 +660,7 @@ div#txt {
   display: none;
 }
 .mb-icon p {
-  color: white;
+  color: rgb(101, 147, 180);
   width: fit-content;
   position: relative;
   left: 24%;
